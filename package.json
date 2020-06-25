@@ -1,0 +1,22 @@
+{
+  "name": "gx-boa-fn-precalculated",
+  "version": "1.1.0",
+  "description": "azure function for precalculated",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "Primitivo RM",
+  "dependencies": {
+    "@azure/service-bus": "^1.1.0",
+    "@babel/polyfill": "^7.6.0",
+    "axios": "^0.19.0",
+    "azure": "^2.3.1-preview",
+    "debug": "^4.1.1",
+    "newrelic": "^6.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.1.0",
+    "jest": "^24.9.0",
+    "jest-chain": "^1.1.2"
+  }
+}

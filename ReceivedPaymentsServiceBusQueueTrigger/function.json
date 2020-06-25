@@ -1,0 +1,12 @@
+{
+  "scriptFile": "index.js",
+  "bindings": [
+    {
+      "name": "mySbMsg",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "queueName": "received_payments",
+      "connection": "SALES_SERVICEBUS_CONNECTION_STRING"
+    }
+  ]
+}

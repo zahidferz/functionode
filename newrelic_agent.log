@@ -1,0 +1,34 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":22064,"time":"2020-01-29T15:40:27.196Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":22064,"time":"2020-01-29T15:40:27.199Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":19412,"time":"2020-01-29T19:58:12.114Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":19412,"time":"2020-01-29T19:58:12.117Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":24404,"time":"2020-01-29T19:58:14.544Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":24404,"time":"2020-01-29T19:58:14.548Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":26172,"time":"2020-01-29T19:58:18.342Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":26172,"time":"2020-01-29T19:58:18.347Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":11712,"time":"2020-01-29T19:58:20.377Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":11712,"time":"2020-01-29T19:58:20.381Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":27524,"time":"2020-01-29T19:58:26.395Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":27524,"time":"2020-01-29T19:58:26.399Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":17500,"time":"2020-01-29T19:58:29.271Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":17500,"time":"2020-01-29T19:58:29.275Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":24144,"time":"2020-01-29T19:58:33.473Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":24144,"time":"2020-01-29T19:58:33.477Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":27044,"time":"2020-01-29T19:58:38.578Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":27044,"time":"2020-01-29T19:58:38.582Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":7080,"time":"2020-01-29T19:58:45.053Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":7080,"time":"2020-01-29T19:58:45.057Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":22780,"time":"2020-01-29T19:58:50.108Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":22780,"time":"2020-01-29T19:58:50.113Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":9480,"time":"2020-01-29T19:58:52.294Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":9480,"time":"2020-01-29T19:58:52.299Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":6872,"time":"2020-01-29T19:58:56.483Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":6872,"time":"2020-01-29T19:58:56.487Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":10760,"time":"2020-01-29T19:59:10.932Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":10760,"time":"2020-01-29T19:59:10.936Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":24536,"time":"2020-01-29T19:59:14.080Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":24536,"time":"2020-01-29T19:59:14.084Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":19780,"time":"2020-01-29T19:59:16.691Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":19780,"time":"2020-01-29T19:59:16.694Z","msg":"Module not enabled in configuration; not starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":27388,"time":"2020-01-29T19:59:19.475Z","msg":"Using New Relic for Node.js. Agent version: 6.2.0; Node version: v10.14.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-S52J9S1","pid":27388,"time":"2020-01-29T19:59:19.478Z","msg":"Module not enabled in configuration; not starting."}
